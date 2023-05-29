@@ -1,0 +1,9 @@
+{
+	"": {
+		"prefix": "vb",
+		"body": [
+			"vector<bool>"
+		],
+		"description": ""
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"": {
+		"prefix": "no",
+		"body": [
+			"cout << \"NO\" << '\\n';"
+		],
+		"description": ""
+	}
+}

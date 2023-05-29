@@ -1,0 +1,9 @@
+{
+	"": {
+		"prefix": "vvi",
+		"body": [
+			"vector<vector<int>>"
+		],
+		"description": ""
+	}
+}

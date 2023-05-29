@@ -1,0 +1,9 @@
+{
+	"": {
+		"prefix": "vpi",
+		"body": [
+			"vector<pair<int, int>>"
+		],
+		"description": ""
+	}
+}

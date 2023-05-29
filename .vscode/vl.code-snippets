@@ -1,0 +1,9 @@
+{
+	"": {
+		"prefix": "vl",
+		"body": [
+			"vector<long long>"
+		],
+		"description": ""
+	}
+}

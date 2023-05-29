@@ -1,0 +1,9 @@
+{
+	"": {
+		"prefix": "pi",
+		"body": [
+			"pair<int, int>"
+		],
+		"description": ""
+	}
+}

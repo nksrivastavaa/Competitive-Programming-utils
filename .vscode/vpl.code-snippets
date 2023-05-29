@@ -1,0 +1,9 @@
+{
+	"": {
+		"prefix": "vpl",
+		"body": [
+			"vector<pair<long long, long long>>"
+		],
+		"description": ""
+	}
+}

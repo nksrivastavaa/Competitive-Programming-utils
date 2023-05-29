@@ -1,0 +1,9 @@
+{
+	"": {
+		"prefix": "yes",
+		"body": [
+			"cout << \"YES\" << '\\n';"
+		],
+		"description": ""
+	}
+}
